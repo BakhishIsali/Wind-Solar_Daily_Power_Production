@@ -1,1 +1,1 @@
-# Wind-Solar_Daily_Power_Production
+# Wind_Solar_Daily_Power_Production
